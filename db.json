@@ -1,0 +1,88 @@
+{
+  "userData": [
+    {
+      "id": "63f1",
+      "email": "patelayush4702@gmail.com",
+      "password": "AYush@123"
+    },
+    {
+      "id": "4c11",
+      "email": "patelayush4702@gmail.com",
+      "password": "test"
+    },
+    {
+      "id": "21c1",
+      "email": "patelayush4702@gmail.com",
+      "password": "test"
+    },
+    {
+      "id": "36e9",
+      "email": "patelayush4702@gmail.com",
+      "password": "23333"
+    },
+    {
+      "id": "1f32",
+      "email": "patelayush4702@gmail.com",
+      "password": "23333"
+    },
+    {
+      "id": "e7f1",
+      "email": "patelayush4702@gmail.com",
+      "password": "Afssfsadf"
+    },
+    {
+      "id": "56f1",
+      "email": "patelayush4702@gmail.com",
+      "password": "Afssfsadf"
+    },
+    {
+      "id": "f240",
+      "email": "patelayush4702@gmail.com",
+      "password": "test"
+    },
+    {
+      "id": "83a0",
+      "email": "patelayush4702@gmail.com",
+      "password": "Ayush@123"
+    },
+    {
+      "id": "d867",
+      "email": "patelayush4702@gmail.com",
+      "password": "ayush@322"
+    },
+    {
+      "id": "2562",
+      "email": "patelayush4702@gmail.com",
+      "password": "test"
+    }
+  ],
+  "blogData": [
+    {
+      "id": "3522",
+      "title": "India Cricket Team Of T20 World Cup",
+      "descrptions": "Rohit (C),virat,hardik",
+      "category": "Sports"
+    },
+    {
+      "id": "bcb1",
+      "title": "ress",
+      "descrptions": "sadf",
+      "category": "Sports",
+      "createAt": "2024-04-30T13:14:31.028Z"
+    },
+    {
+      "title": "FF11",
+      "descrptions": "Lunch next Year",
+      "category": "Movies",
+      "createAt": "2024-04-30T13:17:40.321Z",
+      "id": "a0a2"
+    },
+    {
+      "title": "New Team of T20 World Cup",
+      "descrptions": "Rohit (C),Virat",
+      "category": "Sports",
+      "createAt": "2024-04-30T13:17:07.018Z",
+      "id": "b54f"
+    }
+  ]
+}
